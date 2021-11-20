@@ -33,7 +33,7 @@ date,county,state,fips,cases,deaths
 2020-01-30,Cook,Illinois,17031,2,0
 2020-01-30,Snohomish,Washington,53061,1,0
 2020-01-31,Maricopa,Arizona,4013,1,0
-2020-01-31,Los Angeles,California,6037,1,0
+2020-01-31,Los Angeles,California,6037,1, 0
 2020-01-31,Orange,California,6059,1,0
 2020-01-31,Santa Clara,California,6085,1,0
 2020-01-31,Cook,Illinois,17031,2,0
